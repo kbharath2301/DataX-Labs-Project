@@ -1,0 +1,501 @@
+ProductID,Category,SubCategory,ProductName,CostPrice,SupplierID
+1001,Toys,Educational Toys,Funskool Educational,2410.85,73
+1002,Toys,Games,Lego Games,101.78,76
+1003,Electronics,Audio Devices,Xiaomi Audio,4750.6,31
+1004,Beauty,Skincare,Olay Skincare,978.48,52
+1005,Toys,Games,Chhota Bheem Games,2610.42,21
+1006,Home & Kitchen,Appliances,Butterfly Appliances,753.7,44
+1007,Electronics,Powerbanks,Apple Powerbanks,2187.57,52
+1008,Grocery,Dairy,Patanjali Dairy,3852.25,50
+1009,Sports,Outdoor Sports,Nivia Outdoor,3372.31,51
+1010,Beauty,Cosmetics,Nykaa Cosmetics,4814.79,15
+1011,Sports,Outdoor Sports,Nivia Outdoor,4459.96,48
+1012,Home & Kitchen,Appliances,Philips Appliances,2780.21,10
+1013,Toys,Educational Toys,Hasbro Educational,1569.18,52
+1014,Home & Kitchen,Appliances,Usha Appliances,903.7,39
+1015,Clothing,Jeans,Roadster Jeans,3873.79,9
+1016,Sports,Fitness,Cosco Fitness,436.82,7
+1017,Clothing,Shirts,Nike Shirts,1425.32,46
+1018,Home & Kitchen,Storage,Morphy Richards Storage,577.32,24
+1019,Toys,Educational Toys,Disney Educational,2427.88,50
+1020,Home & Kitchen,Storage,Havells Storage,3312.72,37
+1021,Clothing,Ethnic Wear,Allen Solly Ethnic,4054.31,48
+1022,Clothing,Jeans,Max Jeans,3461.56,18
+1023,Beauty,Skincare,Nivea Skincare,3073.24,41
+1024,Beauty,Haircare,Mamaearth Haircare,3109.96,55
+1025,Electronics,Mobile Phones,HP Mobile,2161.46,71
+1026,Clothing,Ethnic Wear,Zara Ethnic,1030.7,52
+1027,Sports,Fitness,Decathlon Fitness,582.67,59
+1028,Toys,Soft Toys,Nerf Soft,3240.81,30
+1029,Clothing,Jackets,UCB Jackets,3320.18,17
+1030,Clothing,Ethnic Wear,Nike Ethnic,4925.26,27
+1031,Beauty,Skincare,Himalaya Skincare,4464.24,47
+1032,Clothing,Jackets,Nike Jackets,3746.44,49
+1033,Toys,Games,Funskool Games,4998.79,34
+1034,Clothing,Ethnic Wear,Nike Ethnic,1745.15,59
+1035,Grocery,Beverages,Patanjali Beverages,4924.32,70
+1036,Beauty,Skincare,Mamaearth Skincare,1770.5,49
+1037,Clothing,Ethnic Wear,Max Ethnic,2950.18,60
+1038,Home & Kitchen,Cookware,Milton Cookware,4847.13,53
+1039,Electronics,Mobile Phones,JBL Mobile,2591.82,64
+1040,Home & Kitchen,Appliances,Whirlpool Appliances,1874.06,29
+1041,Beauty,Cosmetics,Nykaa Cosmetics,4315.12,40
+1042,Sports,Outdoor Sports,Decathlon Outdoor,68.58,33
+1043,Clothing,Jackets,Max Jackets,2606.48,80
+1044,Beauty,Cosmetics,Garnier Cosmetics,2510.51,35
+1045,Clothing,Ethnic Wear,H&M Ethnic,2745.24,26
+1046,Beauty,Cosmetics,Nykaa Cosmetics,513.2,29
+1047,Sports,Fitness,Nivia Fitness,1007.85,25
+1048,Toys,Educational Toys,Lego Educational,2543.44,61
+1049,Electronics,Powerbanks,Xiaomi Powerbanks,3830.78,40
+1050,Toys,Games,Hasbro Games,3401.32,6
+1051,Home & Kitchen,Appliances,Panasonic Appliances,3754.69,43
+1052,Beauty,Cosmetics,Garnier Cosmetics,3036.37,59
+1053,Home & Kitchen,Appliances,Prestige Appliances,4585.0,20
+1054,Sports,Fitness,Yonex Fitness,441.14,49
+1055,Home & Kitchen,Cookware,Milton Cookware,2104.43,60
+1056,Electronics,Mobile Phones,Sony Mobile,1771.15,18
+1057,Beauty,Skincare,Nivea Skincare,2083.67,30
+1058,Clothing,Jeans,Adidas Jeans,2897.83,35
+1059,Sports,Fitness,Reebok Fitness,476.49,41
+1060,Toys,Educational Toys,Lego Educational,4445.37,29
+1061,Home & Kitchen,Appliances,Milton Appliances,2846.19,37
+1062,Sports,Outdoor Sports,Kookaburra Outdoor,4403.14,56
+1063,Clothing,Jeans,H&M Jeans,4990.05,22
+1064,Grocery,Household Essentials,MTR Household,4557.68,5
+1065,Sports,Fitness,SG Fitness,478.01,33
+1066,Beauty,Cosmetics,Nykaa Cosmetics,279.36,69
+1067,Electronics,Audio Devices,HP Audio,1112.32,77
+1068,Toys,Soft Toys,Hot Wheels Soft,3527.44,24
+1069,Clothing,Jeans,Allen Solly Jeans,550.4,75
+1070,Clothing,Shirts,Levis Shirts,1107.2,78
+1071,Toys,Educational Toys,Barbie Educational,3924.12,66
+1072,Beauty,Cosmetics,Dove Cosmetics,1803.24,46
+1073,Toys,Games,Funskool Games,3784.64,3
+1074,Home & Kitchen,Appliances,Morphy Richards Appliances,4430.37,73
+1075,Clothing,Jackets,Nike Jackets,81.36,58
+1076,Home & Kitchen,Decor,Usha Decor,4696.27,15
+1077,Beauty,Cosmetics,Himalaya Cosmetics,3522.89,37
+1078,Toys,Soft Toys,Disney Soft,3475.66,73
+1079,Clothing,Shirts,Adidas Shirts,2533.55,23
+1080,Toys,Soft Toys,Nerf Soft,3720.29,35
+1081,Toys,Games,Nerf Games,3935.16,30
+1082,Grocery,Dairy,ITC Dairy,3616.48,14
+1083,Electronics,Audio Devices,JBL Audio,1071.88,19
+1084,Grocery,Snacks,MDH Snacks,527.6,39
+1085,Electronics,Powerbanks,Sony Powerbanks,1036.16,15
+1086,Electronics,Cameras,Canon Cameras,4187.38,29
+1087,Clothing,Jeans,H&M Jeans,1529.54,55
+1088,Grocery,Dairy,Mother Dairy Dairy,3476.08,10
+1089,Sports,Outdoor Sports,Nike Outdoor,1373.13,33
+1090,Sports,Outdoor Sports,Nike Outdoor,3638.53,66
+1091,Sports,Outdoor Sports,Puma Outdoor,216.49,77
+1092,Grocery,Household Essentials,Britannia Household,4242.83,55
+1093,Beauty,Skincare,Garnier Skincare,271.42,57
+1094,Electronics,Cameras,Canon Cameras,2548.3,21
+1095,Home & Kitchen,Decor,Borosil Decor,4980.57,69
+1096,Toys,Educational Toys,Disney Educational,1543.9,36
+1097,Electronics,Audio Devices,Dell Audio,3658.13,55
+1098,Beauty,Haircare,Garnier Haircare,2118.46,2
+1099,Toys,Games,Hot Wheels Games,504.02,26
+1100,Home & Kitchen,Decor,Borosil Decor,2968.97,58
+1101,Clothing,Jackets,Puma Jackets,2622.64,27
+1102,Grocery,Household Essentials,MTR Household,4531.5,2
+1103,Clothing,Jeans,H&M Jeans,218.95,50
+1104,Toys,Soft Toys,Disney Soft,1897.99,42
+1105,Home & Kitchen,Decor,Usha Decor,4028.34,21
+1106,Toys,Soft Toys,Lego Soft,4106.83,42
+1107,Sports,Outdoor Sports,Reebok Outdoor,4336.87,67
+1108,Clothing,Jackets,Roadster Jackets,1698.17,44
+1109,Grocery,Dairy,Nestle Dairy,738.5,59
+1110,Clothing,Jeans,Levis Jeans,2582.5,39
+1111,Clothing,Jeans,Nike Jeans,1401.06,78
+1112,Toys,Games,Barbie Games,2319.7,28
+1113,Clothing,Shirts,Adidas Shirts,1585.45,24
+1114,Beauty,Haircare,Garnier Haircare,3237.37,10
+1115,Grocery,Household Essentials,ITC Household,1748.19,43
+1116,Clothing,Jeans,Adidas Jeans,2273.65,15
+1117,Electronics,Powerbanks,OnePlus Powerbanks,4001.1,20
+1118,Grocery,Snacks,ITC Snacks,1470.63,58
+1119,Home & Kitchen,Decor,Philips Decor,1182.21,11
+1120,Toys,Educational Toys,Funskool Educational,4850.0,16
+1121,Beauty,Haircare,Dove Haircare,3324.03,72
+1122,Beauty,Haircare,Dove Haircare,2718.04,78
+1123,Home & Kitchen,Storage,Usha Storage,2688.7,66
+1124,Clothing,Ethnic Wear,Roadster Ethnic,4741.04,58
+1125,Toys,Educational Toys,Lego Educational,4582.75,24
+1126,Grocery,Dairy,Nestle Dairy,1411.9,55
+1127,Toys,Games,Funskool Games,3906.2,36
+1128,Sports,Outdoor Sports,SG Outdoor,841.09,18
+1129,Home & Kitchen,Cookware,Havells Cookware,3794.15,49
+1130,Clothing,Jackets,Adidas Jackets,3108.68,3
+1131,Grocery,Household Essentials,Nestle Household,4067.7,33
+1132,Beauty,Haircare,Maybelline Haircare,4247.01,70
+1133,Grocery,Snacks,Nestle Snacks,1006.62,5
+1134,Sports,Footwear,Decathlon Footwear,3531.23,19
+1135,Home & Kitchen,Cookware,Morphy Richards Cookware,914.13,19
+1136,Sports,Fitness,Nivia Fitness,4676.38,48
+1137,Clothing,Ethnic Wear,UCB Ethnic,784.4,32
+1138,Electronics,Laptops,JBL Laptops,956.44,53
+1139,Beauty,Skincare,Nivea Skincare,3151.25,6
+1140,Clothing,Jeans,Levis Jeans,3186.14,71
+1141,Grocery,Household Essentials,Nestle Household,901.17,65
+1142,Beauty,Skincare,Dove Skincare,2749.59,26
+1143,Grocery,Beverages,ITC Beverages,4942.72,30
+1144,Home & Kitchen,Cookware,Borosil Cookware,4284.01,80
+1145,Toys,Educational Toys,Lego Educational,3824.54,19
+1146,Home & Kitchen,Cookware,Milton Cookware,1951.83,2
+1147,Toys,Games,Disney Games,4629.26,35
+1148,Grocery,Beverages,Patanjali Beverages,1426.31,19
+1149,Sports,Outdoor Sports,Adidas Outdoor,3575.75,55
+1150,Clothing,Shirts,Max Shirts,581.01,44
+1151,Clothing,Ethnic Wear,Nike Ethnic,741.63,63
+1152,Clothing,Shirts,Puma Shirts,2712.34,39
+1153,Home & Kitchen,Storage,Borosil Storage,3941.78,28
+1154,Sports,Fitness,Adidas Fitness,781.59,69
+1155,Toys,Soft Toys,Lego Soft,1528.69,11
+1156,Sports,Footwear,Kookaburra Footwear,275.35,27
+1157,Electronics,Laptops,Canon Laptops,3365.81,12
+1158,Sports,Fitness,Reebok Fitness,4631.27,36
+1159,Sports,Outdoor Sports,Yonex Outdoor,4032.17,12
+1160,Toys,Soft Toys,Hot Wheels Soft,3399.36,68
+1161,Home & Kitchen,Decor,Prestige Decor,2070.25,76
+1162,Clothing,Jackets,H&M Jackets,3161.67,77
+1163,Electronics,Powerbanks,HP Powerbanks,712.13,11
+1164,Beauty,Cosmetics,Loreal Cosmetics,1275.5,23
+1165,Clothing,Jeans,Zara Jeans,3869.05,48
+1166,Beauty,Cosmetics,Nykaa Cosmetics,3473.88,67
+1167,Grocery,Snacks,Patanjali Snacks,1414.6,22
+1168,Grocery,Beverages,MTR Beverages,628.79,49
+1169,Sports,Fitness,Nivia Fitness,1793.27,49
+1170,Toys,Soft Toys,Chhota Bheem Soft,567.56,16
+1171,Sports,Outdoor Sports,Puma Outdoor,453.42,43
+1172,Clothing,Jeans,Nike Jeans,656.22,42
+1173,Home & Kitchen,Decor,Panasonic Decor,4044.81,6
+1174,Home & Kitchen,Decor,Usha Decor,105.73,41
+1175,Home & Kitchen,Cookware,Morphy Richards Cookware,1399.42,47
+1176,Sports,Fitness,Puma Fitness,4315.72,16
+1177,Toys,Soft Toys,Barbie Soft,1043.86,18
+1178,Grocery,Household Essentials,MTR Household,3626.61,36
+1179,Grocery,Dairy,Tata Dairy,3036.9,54
+1180,Electronics,Mobile Phones,JBL Mobile,4565.77,33
+1181,Clothing,Jeans,Roadster Jeans,1863.26,11
+1182,Beauty,Skincare,Olay Skincare,1321.7,29
+1183,Home & Kitchen,Storage,Panasonic Storage,619.61,57
+1184,Beauty,Cosmetics,Nykaa Cosmetics,571.46,16
+1185,Grocery,Snacks,Amul Snacks,1379.67,58
+1186,Electronics,Laptops,Lenovo Laptops,149.95,61
+1187,Electronics,Laptops,OnePlus Laptops,3990.33,63
+1188,Toys,Games,Fisher Price Games,3449.74,6
+1189,Electronics,Powerbanks,Sony Powerbanks,1641.45,7
+1190,Toys,Educational Toys,Chhota Bheem Educational,1352.15,57
+1191,Clothing,Ethnic Wear,Allen Solly Ethnic,787.44,12
+1192,Home & Kitchen,Decor,Butterfly Decor,3091.61,78
+1193,Sports,Footwear,Adidas Footwear,118.76,10
+1194,Electronics,Mobile Phones,HP Mobile,4744.38,28
+1195,Toys,Soft Toys,Lego Soft,4831.53,79
+1196,Toys,Soft Toys,Disney Soft,400.52,60
+1197,Grocery,Beverages,Patanjali Beverages,1321.09,32
+1198,Clothing,Jackets,Levis Jackets,1694.02,9
+1199,Clothing,Ethnic Wear,Roadster Ethnic,932.96,49
+1200,Grocery,Snacks,Tata Snacks,3603.17,69
+1201,Clothing,Ethnic Wear,Levis Ethnic,1985.76,19
+1202,Sports,Fitness,Decathlon Fitness,1180.19,33
+1203,Clothing,Ethnic Wear,Allen Solly Ethnic,1889.81,68
+1204,Beauty,Skincare,Loreal Skincare,2421.66,7
+1205,Home & Kitchen,Storage,Prestige Storage,4415.53,42
+1206,Home & Kitchen,Storage,Milton Storage,1113.53,43
+1207,Electronics,Laptops,OnePlus Laptops,1255.92,10
+1208,Beauty,Cosmetics,Mamaearth Cosmetics,2987.05,9
+1209,Home & Kitchen,Appliances,Morphy Richards Appliances,3402.88,44
+1210,Grocery,Dairy,Tata Dairy,4285.97,79
+1211,Beauty,Cosmetics,Lakme Cosmetics,4738.46,46
+1212,Beauty,Skincare,Lakme Skincare,3880.59,25
+1213,Home & Kitchen,Decor,Borosil Decor,924.7,67
+1214,Clothing,Jackets,Roadster Jackets,2216.07,37
+1215,Clothing,Jackets,Adidas Jackets,1592.68,2
+1216,Home & Kitchen,Decor,Butterfly Decor,4203.65,44
+1217,Electronics,Cameras,Canon Cameras,4070.89,62
+1218,Beauty,Haircare,Nivea Haircare,4760.31,67
+1219,Electronics,Audio Devices,Samsung Audio,4007.4,80
+1220,Home & Kitchen,Decor,Usha Decor,2896.95,69
+1221,Electronics,Laptops,Dell Laptops,2449.28,50
+1222,Grocery,Household Essentials,Patanjali Household,122.34,46
+1223,Electronics,Mobile Phones,Xiaomi Mobile,1376.87,57
+1224,Grocery,Dairy,Patanjali Dairy,2519.71,12
+1225,Sports,Fitness,Decathlon Fitness,453.2,70
+1226,Toys,Games,Chhota Bheem Games,1451.15,1
+1227,Toys,Educational Toys,Disney Educational,535.33,76
+1228,Electronics,Mobile Phones,HP Mobile,3646.09,33
+1229,Home & Kitchen,Decor,Havells Decor,488.08,66
+1230,Clothing,Jackets,Levis Jackets,2755.3,26
+1231,Electronics,Powerbanks,OnePlus Powerbanks,1337.3,11
+1232,Sports,Fitness,Cosco Fitness,2819.95,4
+1233,Toys,Soft Toys,Hot Wheels Soft,336.86,70
+1234,Grocery,Dairy,Britannia Dairy,3940.02,9
+1235,Grocery,Snacks,Amul Snacks,4562.91,50
+1236,Grocery,Dairy,MTR Dairy,798.81,58
+1237,Sports,Footwear,SG Footwear,967.58,48
+1238,Electronics,Powerbanks,Sony Powerbanks,1878.86,79
+1239,Home & Kitchen,Decor,Borosil Decor,254.25,30
+1240,Beauty,Cosmetics,Loreal Cosmetics,3609.07,35
+1241,Sports,Footwear,Reebok Footwear,431.09,12
+1242,Grocery,Snacks,ITC Snacks,4028.85,74
+1243,Sports,Footwear,Yonex Footwear,4772.15,37
+1244,Home & Kitchen,Cookware,Havells Cookware,4096.33,59
+1245,Toys,Games,Funskool Games,1285.38,42
+1246,Beauty,Cosmetics,Nykaa Cosmetics,3203.07,64
+1247,Sports,Footwear,Yonex Footwear,1802.65,60
+1248,Sports,Fitness,Kookaburra Fitness,3404.77,73
+1249,Home & Kitchen,Decor,Panasonic Decor,966.11,47
+1250,Electronics,Powerbanks,Lenovo Powerbanks,4115.62,50
+1251,Toys,Soft Toys,Hot Wheels Soft,1018.21,22
+1252,Electronics,Powerbanks,Canon Powerbanks,134.77,36
+1253,Beauty,Cosmetics,Nivea Cosmetics,1399.57,27
+1254,Beauty,Haircare,Garnier Haircare,127.93,14
+1255,Electronics,Powerbanks,JBL Powerbanks,2907.39,79
+1256,Sports,Fitness,Puma Fitness,3939.42,46
+1257,Home & Kitchen,Cookware,Panasonic Cookware,1276.38,8
+1258,Clothing,Shirts,Levis Shirts,122.48,69
+1259,Grocery,Dairy,Mother Dairy Dairy,1835.37,48
+1260,Beauty,Haircare,Nykaa Haircare,1632.46,52
+1261,Clothing,Ethnic Wear,Levis Ethnic,2488.01,18
+1262,Home & Kitchen,Cookware,Usha Cookware,386.41,37
+1263,Home & Kitchen,Appliances,Usha Appliances,896.01,52
+1264,Clothing,Ethnic Wear,UCB Ethnic,2421.92,78
+1265,Electronics,Cameras,HP Cameras,1148.86,76
+1266,Grocery,Household Essentials,MTR Household,4528.83,46
+1267,Electronics,Laptops,Apple Laptops,646.42,5
+1268,Toys,Educational Toys,Hasbro Educational,2429.93,71
+1269,Beauty,Haircare,Olay Haircare,4679.1,23
+1270,Grocery,Snacks,Kelloggs Snacks,1148.79,15
+1271,Sports,Outdoor Sports,Puma Outdoor,3774.66,51
+1272,Clothing,Jackets,Levis Jackets,4647.85,34
+1273,Sports,Footwear,Puma Footwear,807.73,79
+1274,Home & Kitchen,Decor,Whirlpool Decor,88.82,47
+1275,Electronics,Mobile Phones,Sony Mobile,3733.25,53
+1276,Electronics,Audio Devices,Sony Audio,4954.82,19
+1277,Toys,Games,Fisher Price Games,4607.07,8
+1278,Grocery,Snacks,Tata Snacks,1827.01,49
+1279,Electronics,Audio Devices,JBL Audio,3877.82,39
+1280,Electronics,Laptops,Apple Laptops,2482.32,72
+1281,Toys,Soft Toys,Funskool Soft,274.06,68
+1282,Home & Kitchen,Cookware,Panasonic Cookware,375.21,26
+1283,Toys,Soft Toys,Disney Soft,2530.4,80
+1284,Grocery,Household Essentials,Tata Household,4136.42,14
+1285,Sports,Fitness,Nike Fitness,4802.75,31
+1286,Home & Kitchen,Decor,Whirlpool Decor,4487.65,9
+1287,Electronics,Powerbanks,Xiaomi Powerbanks,1216.75,27
+1288,Home & Kitchen,Appliances,Philips Appliances,849.34,18
+1289,Toys,Games,Nerf Games,4942.44,11
+1290,Beauty,Haircare,Maybelline Haircare,3417.55,54
+1291,Clothing,Shirts,Allen Solly Shirts,3455.3,80
+1292,Toys,Educational Toys,Barbie Educational,2774.06,34
+1293,Electronics,Audio Devices,Xiaomi Audio,1467.1,14
+1294,Beauty,Skincare,Maybelline Skincare,1638.74,30
+1295,Sports,Footwear,Adidas Footwear,1199.2,18
+1296,Electronics,Laptops,Dell Laptops,632.69,12
+1297,Home & Kitchen,Decor,Butterfly Decor,3609.69,53
+1298,Electronics,Powerbanks,HP Powerbanks,1157.33,13
+1299,Clothing,Ethnic Wear,Roadster Ethnic,2863.21,63
+1300,Home & Kitchen,Appliances,Prestige Appliances,2882.43,72
+1301,Electronics,Mobile Phones,Sony Mobile,812.61,20
+1302,Clothing,Jackets,UCB Jackets,338.43,72
+1303,Sports,Outdoor Sports,Cosco Outdoor,758.37,20
+1304,Clothing,Shirts,Nike Shirts,179.84,62
+1305,Beauty,Cosmetics,Garnier Cosmetics,4127.8,71
+1306,Sports,Footwear,Nike Footwear,379.05,30
+1307,Sports,Fitness,Puma Fitness,2551.95,15
+1308,Sports,Footwear,Yonex Footwear,1002.21,8
+1309,Electronics,Powerbanks,Dell Powerbanks,1470.29,78
+1310,Sports,Outdoor Sports,Nivia Outdoor,369.99,61
+1311,Grocery,Snacks,Mother Dairy Snacks,2122.56,32
+1312,Clothing,Jackets,Allen Solly Jackets,4769.42,16
+1313,Toys,Soft Toys,Funskool Soft,4959.35,4
+1314,Toys,Educational Toys,Hot Wheels Educational,566.0,22
+1315,Clothing,Ethnic Wear,Max Ethnic,3122.74,77
+1316,Grocery,Dairy,Britannia Dairy,912.54,61
+1317,Toys,Soft Toys,Fisher Price Soft,2405.25,40
+1318,Beauty,Haircare,Loreal Haircare,3454.28,21
+1319,Grocery,Snacks,Tata Snacks,2964.6,24
+1320,Grocery,Household Essentials,Tata Household,3454.06,27
+1321,Clothing,Ethnic Wear,UCB Ethnic,4038.55,10
+1322,Home & Kitchen,Appliances,Borosil Appliances,1900.87,78
+1323,Toys,Educational Toys,Barbie Educational,685.15,57
+1324,Clothing,Jeans,Nike Jeans,1145.14,60
+1325,Clothing,Jackets,Allen Solly Jackets,3296.45,1
+1326,Electronics,Powerbanks,HP Powerbanks,4699.87,57
+1327,Beauty,Haircare,Lakme Haircare,2767.84,41
+1328,Clothing,Jeans,Nike Jeans,855.75,42
+1329,Home & Kitchen,Storage,Whirlpool Storage,265.34,58
+1330,Toys,Educational Toys,Nerf Educational,3048.17,65
+1331,Electronics,Mobile Phones,Sony Mobile,2245.3,30
+1332,Electronics,Powerbanks,Xiaomi Powerbanks,1751.75,47
+1333,Home & Kitchen,Storage,Milton Storage,3775.64,71
+1334,Home & Kitchen,Storage,Usha Storage,3082.32,53
+1335,Grocery,Beverages,ITC Beverages,661.52,2
+1336,Clothing,Shirts,UCB Shirts,3744.73,49
+1337,Sports,Fitness,Nike Fitness,1771.32,17
+1338,Beauty,Cosmetics,Dove Cosmetics,2846.89,9
+1339,Sports,Footwear,Kookaburra Footwear,1284.93,47
+1340,Grocery,Snacks,Nestle Snacks,3759.51,12
+1341,Beauty,Skincare,Mamaearth Skincare,4089.77,31
+1342,Clothing,Ethnic Wear,Levis Ethnic,2987.95,6
+1343,Sports,Fitness,Decathlon Fitness,91.03,41
+1344,Toys,Educational Toys,Hot Wheels Educational,1479.57,29
+1345,Clothing,Ethnic Wear,Puma Ethnic,2525.4,72
+1346,Clothing,Ethnic Wear,Puma Ethnic,3726.47,29
+1347,Beauty,Skincare,Garnier Skincare,2617.95,7
+1348,Home & Kitchen,Storage,Borosil Storage,3202.3,10
+1349,Electronics,Laptops,Samsung Laptops,125.11,46
+1350,Toys,Soft Toys,Lego Soft,2694.16,76
+1351,Clothing,Ethnic Wear,Puma Ethnic,3396.59,53
+1352,Home & Kitchen,Decor,Panasonic Decor,4255.12,31
+1353,Beauty,Haircare,Nivea Haircare,1736.9,21
+1354,Beauty,Haircare,Maybelline Haircare,280.19,72
+1355,Home & Kitchen,Appliances,Milton Appliances,1496.19,27
+1356,Electronics,Mobile Phones,Apple Mobile,2174.01,35
+1357,Sports,Outdoor Sports,Cosco Outdoor,4051.03,48
+1358,Clothing,Shirts,Roadster Shirts,3459.26,31
+1359,Beauty,Haircare,Maybelline Haircare,3969.28,64
+1360,Beauty,Cosmetics,Garnier Cosmetics,2820.3,72
+1361,Grocery,Household Essentials,Patanjali Household,2196.21,20
+1362,Grocery,Beverages,Mother Dairy Beverages,2681.72,34
+1363,Grocery,Snacks,Patanjali Snacks,353.15,80
+1364,Beauty,Cosmetics,Himalaya Cosmetics,1541.42,80
+1365,Electronics,Mobile Phones,Canon Mobile,2593.05,29
+1366,Home & Kitchen,Appliances,Milton Appliances,1844.77,40
+1367,Beauty,Skincare,Nykaa Skincare,3943.57,56
+1368,Electronics,Audio Devices,Samsung Audio,2905.47,45
+1369,Toys,Games,Lego Games,434.6,69
+1370,Clothing,Ethnic Wear,Puma Ethnic,1789.34,67
+1371,Electronics,Laptops,Sony Laptops,3229.87,63
+1372,Beauty,Haircare,Maybelline Haircare,786.07,47
+1373,Beauty,Skincare,Lakme Skincare,4183.31,31
+1374,Grocery,Beverages,Nestle Beverages,2059.24,60
+1375,Clothing,Jackets,Puma Jackets,3635.62,51
+1376,Sports,Fitness,Nivia Fitness,3453.36,51
+1377,Toys,Educational Toys,Funskool Educational,3986.3,44
+1378,Grocery,Beverages,Kelloggs Beverages,908.46,34
+1379,Beauty,Haircare,Dove Haircare,629.93,45
+1380,Clothing,Jackets,Nike Jackets,2360.63,43
+1381,Home & Kitchen,Appliances,Panasonic Appliances,866.98,14
+1382,Sports,Outdoor Sports,Adidas Outdoor,1027.11,26
+1383,Grocery,Snacks,Tata Snacks,4984.26,25
+1384,Electronics,Powerbanks,Samsung Powerbanks,3592.55,16
+1385,Grocery,Household Essentials,MTR Household,567.05,31
+1386,Clothing,Jackets,Roadster Jackets,1608.37,3
+1387,Sports,Footwear,Cosco Footwear,599.51,19
+1388,Beauty,Skincare,Olay Skincare,3378.81,78
+1389,Clothing,Ethnic Wear,Levis Ethnic,3571.76,78
+1390,Home & Kitchen,Decor,Havells Decor,2358.41,11
+1391,Toys,Educational Toys,Disney Educational,3044.06,48
+1392,Home & Kitchen,Cookware,Whirlpool Cookware,330.07,43
+1393,Sports,Outdoor Sports,Adidas Outdoor,4077.29,43
+1394,Sports,Fitness,Cosco Fitness,708.54,52
+1395,Electronics,Laptops,Canon Laptops,3731.45,3
+1396,Grocery,Household Essentials,Mother Dairy Household,336.02,77
+1397,Beauty,Skincare,Nivea Skincare,270.53,45
+1398,Beauty,Haircare,Olay Haircare,4210.11,53
+1399,Toys,Soft Toys,Play-Doh Soft,2989.99,46
+1400,Electronics,Mobile Phones,Sony Mobile,2507.88,68
+1401,Home & Kitchen,Decor,Usha Decor,3394.93,59
+1402,Sports,Fitness,Nivia Fitness,3479.29,61
+1403,Sports,Outdoor Sports,Yonex Outdoor,2951.56,79
+1404,Beauty,Cosmetics,Nykaa Cosmetics,2171.11,5
+1405,Home & Kitchen,Cookware,Whirlpool Cookware,3142.37,62
+1406,Home & Kitchen,Cookware,Butterfly Cookware,619.46,77
+1407,Home & Kitchen,Cookware,Usha Cookware,691.55,36
+1408,Sports,Fitness,Kookaburra Fitness,2605.81,59
+1409,Grocery,Beverages,Britannia Beverages,3819.0,34
+1410,Home & Kitchen,Cookware,Milton Cookware,3812.95,80
+1411,Sports,Outdoor Sports,Yonex Outdoor,531.39,33
+1412,Electronics,Laptops,JBL Laptops,479.14,33
+1413,Grocery,Dairy,Nestle Dairy,767.74,8
+1414,Beauty,Skincare,Garnier Skincare,4457.09,70
+1415,Beauty,Skincare,Mamaearth Skincare,763.81,20
+1416,Electronics,Laptops,JBL Laptops,4663.27,3
+1417,Grocery,Beverages,MDH Beverages,2526.35,54
+1418,Beauty,Haircare,Lakme Haircare,714.75,15
+1419,Electronics,Cameras,OnePlus Cameras,4284.41,2
+1420,Grocery,Snacks,ITC Snacks,1469.82,2
+1421,Home & Kitchen,Cookware,Panasonic Cookware,2799.03,56
+1422,Sports,Footwear,Puma Footwear,4659.65,62
+1423,Grocery,Snacks,Amul Snacks,3787.79,41
+1424,Clothing,Shirts,Allen Solly Shirts,3534.04,36
+1425,Toys,Soft Toys,Nerf Soft,1309.82,41
+1426,Toys,Games,Hot Wheels Games,4959.65,34
+1427,Sports,Footwear,Nike Footwear,3415.73,4
+1428,Home & Kitchen,Storage,Panasonic Storage,945.02,53
+1429,Toys,Educational Toys,Funskool Educational,3786.74,8
+1430,Toys,Games,Chhota Bheem Games,1604.49,32
+1431,Beauty,Cosmetics,Himalaya Cosmetics,1804.59,3
+1432,Electronics,Mobile Phones,Samsung Mobile,3602.95,58
+1433,Sports,Footwear,Yonex Footwear,2448.82,70
+1434,Electronics,Audio Devices,Canon Audio,325.88,57
+1435,Clothing,Ethnic Wear,Puma Ethnic,3020.84,2
+1436,Clothing,Jeans,Roadster Jeans,4016.89,37
+1437,Home & Kitchen,Storage,Borosil Storage,2439.64,18
+1438,Toys,Games,Disney Games,4815.93,42
+1439,Sports,Footwear,Yonex Footwear,4225.42,9
+1440,Sports,Footwear,Cosco Footwear,972.39,2
+1441,Clothing,Jeans,Levis Jeans,3708.27,5
+1442,Electronics,Laptops,Lenovo Laptops,934.53,74
+1443,Grocery,Snacks,MDH Snacks,4170.34,15
+1444,Electronics,Audio Devices,Xiaomi Audio,2847.81,80
+1445,Electronics,Powerbanks,Sony Powerbanks,3975.94,76
+1446,Beauty,Skincare,Himalaya Skincare,3602.49,36
+1447,Home & Kitchen,Appliances,Butterfly Appliances,2415.4,41
+1448,Toys,Games,Disney Games,2959.24,65
+1449,Clothing,Jeans,Allen Solly Jeans,380.15,57
+1450,Grocery,Snacks,Britannia Snacks,1222.36,9
+1451,Sports,Fitness,Cosco Fitness,3100.97,20
+1452,Toys,Educational Toys,Hot Wheels Educational,1223.1,25
+1453,Clothing,Jeans,Max Jeans,3468.01,31
+1454,Home & Kitchen,Appliances,Milton Appliances,2627.44,50
+1455,Sports,Outdoor Sports,Puma Outdoor,1935.62,2
+1456,Electronics,Cameras,Canon Cameras,4832.86,17
+1457,Electronics,Audio Devices,Apple Audio,4195.7,25
+1458,Home & Kitchen,Cookware,Panasonic Cookware,1179.38,2
+1459,Electronics,Audio Devices,Sony Audio,3820.29,74
+1460,Grocery,Dairy,MTR Dairy,3022.9,11
+1461,Beauty,Skincare,Nykaa Skincare,2067.31,75
+1462,Home & Kitchen,Decor,Whirlpool Decor,3965.39,3
+1463,Grocery,Household Essentials,ITC Household,4625.16,74
+1464,Electronics,Audio Devices,Samsung Audio,1222.28,61
+1465,Sports,Footwear,Nike Footwear,4656.38,11
+1466,Clothing,Jeans,Adidas Jeans,1117.93,40
+1467,Grocery,Dairy,Tata Dairy,2410.56,12
+1468,Home & Kitchen,Decor,Morphy Richards Decor,3813.06,60
+1469,Electronics,Powerbanks,Dell Powerbanks,4609.76,67
+1470,Home & Kitchen,Appliances,Borosil Appliances,1152.96,11
+1471,Clothing,Jackets,Max Jackets,4457.13,45
+1472,Sports,Outdoor Sports,Puma Outdoor,148.95,14
+1473,Electronics,Mobile Phones,Canon Mobile,1600.31,6
+1474,Clothing,Shirts,Levis Shirts,4262.66,39
+1475,Clothing,Ethnic Wear,Nike Ethnic,2975.53,72
+1476,Sports,Footwear,Puma Footwear,3676.03,64
+1477,Toys,Soft Toys,Play-Doh Soft,1864.71,28
+1478,Electronics,Powerbanks,Xiaomi Powerbanks,1374.8,5
+1479,Home & Kitchen,Decor,Usha Decor,2794.38,60
+1480,Toys,Games,Barbie Games,3478.09,19
+1481,Sports,Outdoor Sports,Cosco Outdoor,651.73,26
+1482,Beauty,Cosmetics,Himalaya Cosmetics,2896.2,60
+1483,Clothing,Shirts,Puma Shirts,2648.73,21
+1484,Beauty,Skincare,Dove Skincare,4686.89,48
+1485,Home & Kitchen,Cookware,Usha Cookware,611.59,16
+1486,Electronics,Audio Devices,HP Audio,3813.49,79
+1487,Home & Kitchen,Storage,Morphy Richards Storage,879.31,5
+1488,Toys,Educational Toys,Lego Educational,2928.26,69
+1489,Clothing,Shirts,Adidas Shirts,2681.57,14
+1490,Grocery,Dairy,Nestle Dairy,3127.9,51
+1491,Home & Kitchen,Decor,Morphy Richards Decor,4917.96,24
+1492,Sports,Outdoor Sports,Puma Outdoor,2338.86,80
+1493,Sports,Outdoor Sports,Nivia Outdoor,3637.08,28
+1494,Toys,Games,Hot Wheels Games,4425.47,51
+1495,Home & Kitchen,Decor,Morphy Richards Decor,4065.1,70
+1496,Clothing,Shirts,Puma Shirts,4665.23,4
+1497,Home & Kitchen,Cookware,Borosil Cookware,1183.02,44
+1498,Sports,Fitness,Nike Fitness,2680.32,28
+1499,Clothing,Ethnic Wear,Levis Ethnic,542.84,6
+1500,Toys,Soft Toys,Lego Soft,239.68,27
