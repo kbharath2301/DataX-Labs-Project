@@ -1,4 +1,4 @@
-# DataX-Labs Project Repository
+# Projects Repository
 
 ### Contains 2 complete end-to-end Data Analytics Projects (Retail + YouTube Analytics)
 #### By: K Bharath Chary
